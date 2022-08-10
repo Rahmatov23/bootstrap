@@ -1,0 +1,32 @@
+
+.text{
+   color: #79C8C7;
+}
+.bg{
+    background-color: 
+    #012F34;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 380px;
+    height: 253px;
+}
+.box{
+    margin-top: 20px;
+   /* padding-left: 15px; */
+
+}
+.meet{
+    background-color: #004047;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    
+}
+.textt{
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+ }
+ .col-4>div>p+p{
+    margin-top: -15px;
+ }
